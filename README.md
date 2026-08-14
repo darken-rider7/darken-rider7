@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Engineering Student | Full-Stack & Mobile Developer  <br>Building AI/ML, IoT & DevOps applications  <br>Interested in Quant Finance & Quantum Computing</p>
+<p align="left">Engineering Student | Full-Stack & Mobile Developer  <br>Building AI/ML, IoT & DevOps applications  </p>
 
 ###
 
