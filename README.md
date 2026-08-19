@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Engineering Student | Full-Stack & Mobile Developer  <br>Building AI/ML, IoT & DevOps applications  </p>
+<p align="left"> B.Tech CSE Student || AI/ML Engineer || Building AI-Powered Full-Stack • DevOps • IoT Solutions  </p>
 
 ###
 
